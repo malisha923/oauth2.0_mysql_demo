@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oauth2.0_mysql_web", "oauth2.0_mysql_demo\oauth2.0_mysql_web.csproj", "{6248F73B-6101-4FC8-91AF-86372B5C08E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oauth2.0_mysql_data", "oauth2.0_mysql_data\oauth2.0_mysql_data.csproj", "{8F4E3CE7-2640-4786-BEB6-E6E8388A8514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6248F73B-6101-4FC8-91AF-86372B5C08E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6248F73B-6101-4FC8-91AF-86372B5C08E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6248F73B-6101-4FC8-91AF-86372B5C08E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6248F73B-6101-4FC8-91AF-86372B5C08E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F4E3CE7-2640-4786-BEB6-E6E8388A8514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4E3CE7-2640-4786-BEB6-E6E8388A8514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4E3CE7-2640-4786-BEB6-E6E8388A8514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4E3CE7-2640-4786-BEB6-E6E8388A8514}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
